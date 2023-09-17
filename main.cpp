@@ -1,7 +1,6 @@
 #include <cpr/cpr.h>
 #include <iostream>
 #include <regex>
-#include <unistd.h>
 
 void logout()
 {
